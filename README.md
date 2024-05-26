@@ -45,4 +45,4 @@
 
 <h3>5. ЛИЦЕНЗИЯ</h3>
 
-Этот проект лицензирован согласно условиям лицензии MIT. См. файл [LICENSE](https://github.com/jedyEvgeny/YPGoFinalJob/blob/main/LICENSE) для получения дополнительной информации.
+Этот проект лицензирован согласно условиям лицензии MIT. См. файл [LICENSE](https://github.com/jedyEvgeny/YP12SprintPractice/blob/main/LICENSE) для получения дополнительной информации.
